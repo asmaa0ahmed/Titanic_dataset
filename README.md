@@ -18,6 +18,13 @@ The dataset is from Kaggle: [Titanic – Machine Learning from Disaster](https:/
 5. Apply GridSearchCV to different models
 6. Evaluate model performance
 
+## Model Performance (Accuracy)
+| Model          | Accuracy (CV) | Test Accuracy |
+|----------------|---------------|---------------|
+| Random Forest  | 0.83          | 0.81          |
+| SVM            | 0.81          | 0.80          |
+| KNN            | 0.75          | 0.72         |
+
 ## Requirements
 - Python 3.x
 - pandas, scikit-learn
